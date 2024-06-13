@@ -1,0 +1,14 @@
+1. Back button backend
+2. Every logical withdraw and loan taking problem
+3. Message boxs of every screen
+4. Check out databse connections
+
+
+
+gui.py is main file
+
+main page is 3 links 1 is backgroung picture and 2 is management logo
+
+replace previous link to new link on every page DO IT with c+f and replace
+
+thats all thank you very much you are mugher machs
